@@ -97,6 +97,7 @@ The script generates an `report.html` file containing:
 ├── report.html                 # Generated HTML report with validation results
 └── README.md                   # Project documentation
 
+
 ## Technologies Used
 
 - **Node.js**: JavaScript runtime for executing the script.
