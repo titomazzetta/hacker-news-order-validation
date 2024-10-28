@@ -89,6 +89,7 @@ The script generates an `report.html` file containing:
 ```
 
 ## Project Structure
+```plain text
 .
 ├── node_modules/               # Node.js packages
 ├── screenshots/                # Captured screenshots for each page
@@ -97,7 +98,7 @@ The script generates an `report.html` file containing:
 ├── report.html                 # Generated HTML report with validation results
 └── README.md                   # Project documentation
 
-
+```
 ## Technologies Used
 
 - **Node.js**: JavaScript runtime for executing the script.
