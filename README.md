@@ -86,10 +86,9 @@ The script generates an `report.html` file containing:
     <!-- Screenshots displayed here -->
   </body>
 </html>
+```
 
 ## Project Structure
-
-```plaintext
 .
 ├── node_modules/               # Node.js packages
 ├── screenshots/                # Captured screenshots for each page
